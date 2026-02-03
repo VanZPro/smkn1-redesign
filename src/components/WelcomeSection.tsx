@@ -16,7 +16,7 @@ export default function WelcomeSection() {
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-xl aspect-[3/4] group">
               <img
                 // Nanti ganti link ini dengan foto asli Kepala Sekolah (upload ke folder public)
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1974&auto=format&fit=crop"
+                src=""
                 alt="Kepala Sekolah SMKN 1 Panyingkiran"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
               />
